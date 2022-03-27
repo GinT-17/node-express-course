@@ -4,7 +4,7 @@
   "description": "",
   "main": "1-intro.js",
   "scripts": {
-    "start": "nodemon 09-path-module.js"
+    "start": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
